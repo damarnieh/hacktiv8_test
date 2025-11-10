@@ -4,4 +4,3 @@
 ini bagian tambahan
 - bagian 1
 - bagian 2
-- bagian 3
